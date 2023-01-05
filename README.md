@@ -9,6 +9,12 @@
 
 ![photo_2023-01-04_04-16-53](https://user-images.githubusercontent.com/32411364/210472482-ee8e29e7-74b0-4fe6-a291-a99edabbec25.jpg)
 
+
+
+
+https://user-images.githubusercontent.com/32411364/210846747-2c44ee65-18c5-4e62-b1fb-abaaf631d09a.mp4
+
+
 ### Word Detection Algorithm
 - Calculate FFT for input samples  
 - Calculate the magnitude and Normalize the spectrum 
